@@ -1,4 +1,4 @@
-#You can Clone this project i made to learn React and tinker:D
+# You can Clone this project i made to learn React and tinker:D
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
