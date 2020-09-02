@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Altruy/RoboFrens/static/css/main.5d42028b.chunk.css",
+    "main.js": "/Altruy/RoboFrens/static/js/main.605a43c8.chunk.js",
+    "main.js.map": "/Altruy/RoboFrens/static/js/main.605a43c8.chunk.js.map",
+    "runtime-main.js": "/Altruy/RoboFrens/static/js/runtime-main.477736cb.js",
+    "runtime-main.js.map": "/Altruy/RoboFrens/static/js/runtime-main.477736cb.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Altruy/RoboFrens/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.5784e352.chunk.js": "/Altruy/RoboFrens/static/js/2.5784e352.chunk.js",
+    "static/js/2.5784e352.chunk.js.map": "/Altruy/RoboFrens/static/js/2.5784e352.chunk.js.map",
+    "index.html": "/Altruy/RoboFrens/index.html",
+    "precache-manifest.ee674737692bca420b09b5a060ac94cf.js": "/Altruy/RoboFrens/precache-manifest.ee674737692bca420b09b5a060ac94cf.js",
+    "service-worker.js": "/Altruy/RoboFrens/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Altruy/RoboFrens/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.5d42028b.chunk.css.map": "/Altruy/RoboFrens/static/css/main.5d42028b.chunk.css.map",
+    "static/js/2.5784e352.chunk.js.LICENSE.txt": "/Altruy/RoboFrens/static/js/2.5784e352.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Altruy/RoboFrens/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.477736cb.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.5784e352.chunk.js",
+    "static/css/main.5d42028b.chunk.css",
+    "static/js/main.605a43c8.chunk.js"
+  ]
+}
