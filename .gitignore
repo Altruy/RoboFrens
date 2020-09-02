@@ -1,3 +1,2 @@
 node_modules
-src/Jitsi.js
-src/JitsiMeetComponent.js
+*.json
